@@ -28,7 +28,7 @@ public class Decide {
 			return launch;
 		}
 	}
-	public static void main(String[] args) {
+	public static void maBREAKTHECODE!!!in(String[] args) {
 		System.out.println("Testing Decide class");
 	}
 }
